@@ -1,0 +1,9 @@
+{ "alarms": [
+    { "time": "09:00", "conditions": [
+      {"weather": "sunny"}
+    ]},
+    { "time": "05:00" },
+  { "time": "10:40" },
+  { "time": "10:39" }
+  ]
+}
