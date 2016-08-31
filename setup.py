@@ -10,7 +10,7 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='conditional-alarm',
+    name='conditional_alarm',
     version='0.0.1',
     description='Conditional Alarm Clock',
     long_description=readme,
